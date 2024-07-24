@@ -15,6 +15,10 @@ Welcome to the official GitHub repository for the **College Game Developer Club*
 
 The **College Game Developer Club** is a student-led organization dedicated to fostering a community of game development enthusiasts. Our mission is to provide resources, support, and opportunities for students to learn, create, and share game projects.
 
+## Live Site
+
+Check out our live site [here](https://gdcanurag.github.io/GdcGaming/).
+
 ## Features
 
 - **Home Page**: Welcome message and club introduction.
